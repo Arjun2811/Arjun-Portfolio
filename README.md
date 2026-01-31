@@ -50,11 +50,11 @@ Welcome to my personal portfolio website! This project is a modern, responsive s
 
 ## 🌐 Deployment
 
-This site is ready to be hosted on **GitHub Pages**.
+<!-- This site is ready to be hosted on **GitHub Pages**.
 
 1. Go to **Settings** > **Pages** in this repository.
 2. Under **Source**, select `main` branch.
-3. Click **Save**. Your site will be published at `https://Arjun2811.github.io/Arjun-Portfolio/`.
+3. Click **Save**. Your site will be published at `https://Arjun2811.github.io/Arjun-Portfolio/`. -->
 
 ## 📬 Contact
 
